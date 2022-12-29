@@ -1,2 +1,2 @@
 # weatherapp
-not completed on the design aspect but gets the job done
+not completed on the design aspect but gets the job done. I will work on the design of this app later on maybe.
